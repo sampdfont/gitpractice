@@ -5,3 +5,7 @@ Some more text bling blang. [some text added here]
 This will [some text added here also] be changed.
 
 Third commit text.
+
+Step 1 : git add . [to add the files to the stage]
+Step 2 : git commit -m "message" [a message to add to the commit, usually in present tense]
+Step 3 : git push [to push the commit to the branch]
