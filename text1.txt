@@ -1,5 +1,7 @@
 Some sample text.
 
-Some more text bling blang.
+Some more text bling blang. [some text added here]
 
-This will be changed.
+This will [some text added here also] be changed.
+
+Third commit text.
